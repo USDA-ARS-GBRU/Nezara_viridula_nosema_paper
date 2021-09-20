@@ -1,0 +1,11 @@
+identity	1.Nezara.viridula.Infected.Fat.Body	2.Nezara.viridula.Infected.Ovary	3.Nezara.viridula.Infected.Spermatheca	4.Nezara.viridula.Infected.Egg	5.Nezara.viridula.Clean.Fat.Body	6.Nezara.viridula.Clean.Ovary	7.Nezara.viridula.Clean.Spermatheca	8.Nezara.viridula.Clean.Egg	
+rhizopus stolonifer	0	0	0	0	8	0	0	0
+alternaria sp.	0	6	0	0	0	0	0	0
+saccharomycetales	0	0	0	0	0	0	17	0
+nosema furnacalis	1	2	0	0	0	0	0	0
+debaryomycetaceae	0	0	0	0	0	0	6	0
+vairimorpha cheracis	120	149	2	4	0	1	0	2
+mucor	13	0	0	1	42	0	0	0
+vairimorpha	4014	4692	199	132	22	24	20	13
+malassezia restricta	0	0	0	0	0	0	5	0
+dothideomycetes	0	0	0	0	0	0	48	0

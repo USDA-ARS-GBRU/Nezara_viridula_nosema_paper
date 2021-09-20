@@ -1,0 +1,4 @@
+genus	1.Nezara.viridula.Infected.Fat.Body	2.Nezara.viridula.Infected.Ovary	3.Nezara.viridula.Infected.Spermatheca	4.Nezara.viridula.Infected.Egg	5.Nezara.viridula.Clean.Fat.Body	6.Nezara.viridula.Clean.Ovary	7.Nezara.viridula.Clean.Spermatheca	8.Nezara.viridula.Clean.Egg	
+ankylochrysis	0	0	0	0	0	14	0	0
+spumella	0	0	0	0	0	3	0	0
+pythium	8	9	0	2	2	0	20	0

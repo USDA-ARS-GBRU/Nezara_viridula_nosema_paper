@@ -1,0 +1,6 @@
+genus	1.Nezara.viridula.Infected.Fat.Body	2.Nezara.viridula.Infected.Ovary	3.Nezara.viridula.Infected.Spermatheca	4.Nezara.viridula.Infected.Egg	5.Nezara.viridula.Clean.Fat.Body	6.Nezara.viridula.Clean.Ovary	7.Nezara.viridula.Clean.Spermatheca	8.Nezara.viridula.Clean.Egg	
+eterusia	0	0	100	0	50.0	0	56.2500	0
+homo	0	0	0	100	0	0	6.2500	0
+strongyloides	100	0	0	0	0	0	25.00	0
+rattus	0	0	0	0	0	100	0	0
+plautia	0	0	0	0	50.0	0	12.500	0

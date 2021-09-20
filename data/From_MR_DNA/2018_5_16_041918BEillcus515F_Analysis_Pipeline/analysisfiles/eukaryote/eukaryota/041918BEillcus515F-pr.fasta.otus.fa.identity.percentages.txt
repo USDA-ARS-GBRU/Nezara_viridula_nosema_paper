@@ -1,0 +1,4 @@
+identity	1.Nezara.viridula.Infected.Fat.Body	2.Nezara.viridula.Infected.Ovary	3.Nezara.viridula.Infected.Spermatheca	4.Nezara.viridula.Infected.Egg	5.Nezara.viridula.Clean.Fat.Body	6.Nezara.viridula.Clean.Ovary	7.Nezara.viridula.Clean.Spermatheca	8.Nezara.viridula.Clean.Egg	
+pythiaceae	100	100	0	100	100	0	100	0
+pelagophyceae	0	0	0	0	0	82.35294117647058823529411765	0	0
+spumella sp.	0	0	0	0	0	17.647058823529411764705882350	0	0

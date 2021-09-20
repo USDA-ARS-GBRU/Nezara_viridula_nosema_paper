@@ -1,0 +1,6 @@
+order	1.Nezara.viridula.Infected.Fat.Body	2.Nezara.viridula.Infected.Ovary	3.Nezara.viridula.Infected.Spermatheca	4.Nezara.viridula.Infected.Egg	5.Nezara.viridula.Clean.Fat.Body	6.Nezara.viridula.Clean.Ovary	7.Nezara.viridula.Clean.Spermatheca	8.Nezara.viridula.Clean.Egg	
+lepidoptera	0	0	2	0	1	0	9	0
+primates	0	0	0	6	0	0	1	0
+hemiptera	0	0	0	0	1	0	2	0
+rhabditida	1	0	0	0	0	0	4	0
+rodentia	0	0	0	0	0	4	0	0

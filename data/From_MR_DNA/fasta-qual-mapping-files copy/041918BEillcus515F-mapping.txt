@@ -1,0 +1,9 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	BarcodeName	ReversePrimer	ProjectName	Description	
+1.Nezara.viridula.Infected.Fat.Body	TCCGGCCG	GTGYCAGCMGCCGCGGTAA	illCus515bar1	GGACTACNVGGGTWTCTAAT	041918BEillcus515F	1.Nezara.viridula.Infected.Fat.Body
+2.Nezara.viridula.Infected.Ovary	TCCGGTAA	GTGYCAGCMGCCGCGGTAA	illCus515bar2	GGACTACNVGGGTWTCTAAT	041918BEillcus515F	2.Nezara.viridula.Infected.Ovary
+3.Nezara.viridula.Infected.Spermatheca	TCCGTCGG	GTGYCAGCMGCCGCGGTAA	illCus515bar3	GGACTACNVGGGTWTCTAAT	041918BEillcus515F	3.Nezara.viridula.Infected.Spermatheca
+4.Nezara.viridula.Infected.Egg	TCCGTCTT	GTGYCAGCMGCCGCGGTAA	illCus515bar4	GGACTACNVGGGTWTCTAAT	041918BEillcus515F	4.Nezara.viridula.Infected.Egg
+5.Nezara.viridula.Clean.Fat.Body	TCCGTGCG	GTGYCAGCMGCCGCGGTAA	illCus515bar5	GGACTACNVGGGTWTCTAAT	041918BEillcus515F	5.Nezara.viridula.Clean.Fat.Body
+6.Nezara.viridula.Clean.Ovary	TCCGTGCT	GTGYCAGCMGCCGCGGTAA	illCus515bar6	GGACTACNVGGGTWTCTAAT	041918BEillcus515F	6.Nezara.viridula.Clean.Ovary
+7.Nezara.viridula.Clean.Spermatheca	TCCGTTCC	GTGYCAGCMGCCGCGGTAA	illCus515bar7	GGACTACNVGGGTWTCTAAT	041918BEillcus515F	7.Nezara.viridula.Clean.Spermatheca
+8.Nezara.viridula.Clean.Egg	TCCGTTTT	GTGYCAGCMGCCGCGGTAA	illCus515bar8	GGACTACNVGGGTWTCTAAT	041918BEillcus515F	8.Nezara.viridula.Clean.Egg

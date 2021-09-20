@@ -1,0 +1,5 @@
+unknown	1.Nezara.viridula.Infected.Fat.Body	2.Nezara.viridula.Infected.Ovary	3.Nezara.viridula.Infected.Spermatheca	4.Nezara.viridula.Infected.Egg	5.Nezara.viridula.Clean.Fat.Body	6.Nezara.viridula.Clean.Ovary	7.Nezara.viridula.Clean.Spermatheca	8.Nezara.viridula.Clean.Egg	
+tistrella spp.	0	0	0	0	0	0	17.592592592592592592592592590	0
+dehalococcoides spp.	0	0	0	50.0	0	0	14.814814814814814814814814810	0
+amanita pulverulenta	0	0	66.666666666666666666666666670	0	0	0	0.9259259259259259259259259300	0
+halothiobacillus neapolitanus	0	0	33.333333333333333333333333330	50.0	0	0	66.666666666666666666666666670	0

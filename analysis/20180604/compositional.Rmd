@@ -1,0 +1,71 @@
+---
+title: "Microbial taxa present in diseased and healthy Southern Green Stink Bugs"
+output: html_notebook
+---
+
+# Load libraries 
+```{r}
+library(compositions)
+library(ggplot2)
+library(reshape2)
+library(tibble)
+```
+
+
+# Load microbiome OTU table of the V4 region of the SSU rRNA sequences using 515F and 806R primers
+```{r}
+path="041918BEillcus515F-pr.fasta.otus.fa.OTU.clean.txt"
+data <- read.table(path, header=T, sep="\t")
+data2 <-data[,6:13]
+
+```
+
+
+#Create a count compositional dataset and perform a clr transformation
+```{r}
+dc = ccomp(t(data2))
+comp = clr(dc)
+names(comp)<-data[,1]
+```
+
+
+# Format the data for plotting
+```{r}
+compdf<-as.data.frame(comp)
+compdf$tissue<-c("Fat Body","Ovary","Spermatheca","Egg","Fat Body","Ovary","Spermatheca","Egg")
+compdf$spotted<-c(TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE)
+longcomp<- melt(compdf, value.name="clr")
+```
+
+```{r}
+ggplot(longcomp[longcomp$variable=="OTU_6",], aes(x=tissue, y=clr, fill=spotted)) + geom_bar(stat="identity", position="dodge") + ggtitle("Presence of Nosema maddoxi OTU in Nezara viridula") +     ylab("Centered Log Ratio) + xlab("Tissue")
+```
+
+
+```{r}
+ggplot(data = longcomp[longcomp$variable=="OTU_6",], aes(x = spotted, y = clr, group = tissue)) + geom_boxplot(width=0.3, aes(group=spotted), fill='#A4A4A4') +
+  geom_line(aes(color = tissue), size = 1) +
+  geom_point(aes(color = tissue), size = 2) +
+   ylab("Centered Log Ratio") + xlab("Spotted") + ggtitle("Presence of Nosema maddoxi OTU in Nezara viridula") +
+   guides(color=guide_legend("Tissue"))
+```
+# Examine the CLR values
+
+```{r}
+longcomp[longcomp$variable=="OTU_6",]
+```
+# Examine the raw counts
+```{r}
+t(data[6,])
+
+```
+
+# Export the data
+```{r}
+tempdf <-as.data.frame(t(compdf[,1:392]))
+tempdf$taxa <-data$Taxonomy
+write.table(tempdf, file="clrOTU.txt", sep="\t")
+```
+
+
+

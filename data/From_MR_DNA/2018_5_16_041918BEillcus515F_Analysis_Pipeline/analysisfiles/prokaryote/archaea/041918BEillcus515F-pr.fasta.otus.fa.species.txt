@@ -1,0 +1,3 @@
+species	1.Nezara.viridula.Infected.Fat.Body	2.Nezara.viridula.Infected.Ovary	3.Nezara.viridula.Infected.Spermatheca	4.Nezara.viridula.Infected.Egg	5.Nezara.viridula.Clean.Fat.Body	6.Nezara.viridula.Clean.Ovary	7.Nezara.viridula.Clean.Spermatheca	8.Nezara.viridula.Clean.Egg	
+methanobacterium beijingense	0	0	1	0	0	0	136	0
+methanobacterium subterraneum	0	0	0	0	0	0	57	0

@@ -1,0 +1,7 @@
+kingdom	1.Nezara.viridula.Infected.Fat.Body	2.Nezara.viridula.Infected.Ovary	3.Nezara.viridula.Infected.Spermatheca	4.Nezara.viridula.Infected.Egg	5.Nezara.viridula.Clean.Fat.Body	6.Nezara.viridula.Clean.Ovary	7.Nezara.viridula.Clean.Spermatheca	8.Nezara.viridula.Clean.Egg	
+metazoa	1	0	2	6	2	4	16	0
+eukaryota	8	9	0	2	2	17	20	0
+bacteria	14927	5535	27781	89259	41450	42851	43060	28836
+fungi	4148	4849	203	137	72	25	97	15
+archaea	0	0	1	0	0	0	193	0
+viridiplantae	1	4	0	2	286	0	15	22

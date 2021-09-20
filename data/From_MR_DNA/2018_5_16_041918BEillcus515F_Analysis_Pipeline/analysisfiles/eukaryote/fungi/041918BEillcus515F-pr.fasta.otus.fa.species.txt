@@ -1,0 +1,11 @@
+species	1.Nezara.viridula.Infected.Fat.Body	2.Nezara.viridula.Infected.Ovary	3.Nezara.viridula.Infected.Spermatheca	4.Nezara.viridula.Infected.Egg	5.Nezara.viridula.Clean.Fat.Body	6.Nezara.viridula.Clean.Ovary	7.Nezara.viridula.Clean.Spermatheca	8.Nezara.viridula.Clean.Egg	
+rhizopus stolonifer	0	0	0	0	8	0	0	0
+candida sp.	0	0	0	0	0	0	17	0
+mucor plumbeus	13	0	0	1	42	0	0	0
+nosema furnacalis	1	2	0	0	0	0	0	0
+coniothyrium palmarum	0	0	0	0	0	0	48	0
+vairimorpha cheracis	4134	4841	201	136	22	25	20	15
+alternaria sp.	0	6	0	0	0	0	0	0
+amanita pulverulenta	0	0	2	0	0	0	1	0
+candida tropicalis	0	0	0	0	0	0	6	0
+malassezia restricta	0	0	0	0	0	0	5	0

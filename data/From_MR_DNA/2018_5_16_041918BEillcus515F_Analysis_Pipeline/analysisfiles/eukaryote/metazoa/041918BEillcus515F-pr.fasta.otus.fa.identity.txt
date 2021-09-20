@@ -1,0 +1,6 @@
+identity	1.Nezara.viridula.Infected.Fat.Body	2.Nezara.viridula.Infected.Ovary	3.Nezara.viridula.Infected.Spermatheca	4.Nezara.viridula.Infected.Egg	5.Nezara.viridula.Clean.Fat.Body	6.Nezara.viridula.Clean.Ovary	7.Nezara.viridula.Clean.Spermatheca	8.Nezara.viridula.Clean.Egg	
+rodentia	0	0	0	0	0	4	0	0
+chromadorea	1	0	0	0	0	0	4	0
+zygaenidae	0	0	2	0	1	0	9	0
+plautia stali	0	0	0	0	1	0	2	0
+homo sapiens	0	0	0	6	0	0	1	0
