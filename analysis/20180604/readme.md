@@ -10,3 +10,5 @@ The data was compositional count data so it was transformed using the centered l
 
 OTU 6, corresponding to _Nosema maddoxi_ was analyzed to look at differences in
 the relative abundance in tissues of spotted and unspotted insects.
+
+The R markdown notebook can also be viewed on [rpubs](https://rpubs.com/arivers/N_viridula)

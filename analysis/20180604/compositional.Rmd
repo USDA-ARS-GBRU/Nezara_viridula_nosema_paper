@@ -38,7 +38,7 @@ longcomp<- melt(compdf, value.name="clr")
 ```
 
 ```{r}
-ggplot(longcomp[longcomp$variable=="OTU_6",], aes(x=tissue, y=clr, fill=spotted)) + geom_bar(stat="identity", position="dodge") + ggtitle("Presence of Nosema maddoxi OTU in Nezara viridula") +     ylab("Centered Log Ratio) + xlab("Tissue")
+ggplot(longcomp[longcomp$variable=="OTU_6",], aes(x=tissue, y=clr, fill=spotted)) + geom_bar(stat="identity", position="dodge") + ggtitle("Presence of Nosema maddoxi OTU in Nezara viridula") +     ylab("Centered Log Ratio") + xlab("Tissue")
 ```
 
 
