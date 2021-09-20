@@ -21,7 +21,7 @@ data2 <-data[,6:13]
 ```
 
 
-#Create a count compositional dataset and perform a clr transformation
+# Create a count compositional dataset and perform a clr transformation
 ```{r}
 dc = ccomp(t(data2))
 comp = clr(dc)

@@ -11,6 +11,3 @@ _Gross Morphology of Diseased Tissues in Nezara viridula (L.) (Hemiptera: Pentat
 * Mark Weaver
 * M. Guadalupe Rojas
 * Juan Morales-Ramos
-
-Readme files throughout the directory provide more information on the data
-and analysis.
