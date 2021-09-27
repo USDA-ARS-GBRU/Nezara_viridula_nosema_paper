@@ -43,11 +43,13 @@ ggplot(longcomp[longcomp$variable=="OTU_6",], aes(x=tissue, y=clr, fill=spotted)
 
 
 ```{r}
-ggplot(data = longcomp[longcomp$variable=="OTU_6",], aes(x = spotted, y = clr, group = tissue)) + geom_boxplot(width=0.3, aes(group=spotted), fill='#A4A4A4') +
+plot2 <- ggplot(data = longcomp[longcomp$variable=="OTU_6",], aes(x = spotted, y = clr, group = tissue)) + geom_boxplot(width=0.3, aes(group=spotted), fill='#A4A4A4') +
   geom_line(aes(color = tissue), size = 1) +
   geom_point(aes(color = tissue), size = 2) +
    ylab("Centered Log Ratio") + xlab("Spotted") + ggtitle("Presence of Nosema maddoxi OTU in Nezara viridula") +
    guides(color=guide_legend("Tissue"))
+plot2
+ggsave("plot2.pdf", width = 8, height = 6)
 ```
 # Examine the CLR values
 
