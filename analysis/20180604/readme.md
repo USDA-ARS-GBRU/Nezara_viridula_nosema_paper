@@ -2,7 +2,7 @@
 # Description of analysis in 20180604
 
 The directory 20180604 contains an analysis of the amplicon sequencing data
-for for the 8 insects that V4 amplicon sequenicng was done on.
+for for the 8 insects that V4 amplicon sequencing was done on.
 
 One tissue type (egg, ovary, spermatheca, or fat body) was taken from 4 spotted and 4 non-spotted individuals.
 
